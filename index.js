@@ -30,7 +30,7 @@ let pausedPosition = 0; // Track the position where the track was stopped
 
 // List of allowed user IDs
 const allowedUsers = new Set([
-  '1219384660304592962', // Replace with actual user IDs
+  '', // Replace with actual user IDs
 ]);
 
 // Load music files from the 'music' folder
