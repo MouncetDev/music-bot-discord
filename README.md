@@ -22,4 +22,8 @@ A simple and customizable music bot for Discord built using [discord.js](https:/
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/MouncetDev/music-bot-discord.git
+2. Install dependencies: npm install
+3. Set up your `.env` file with the bot token: TOKEN=your-discord-bot-token
+4. Run the bot:node index.js
+
